@@ -1,0 +1,43 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LDSM-ON/Geo-Resistivity-meter
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - orcid: 'https://orcid.org/0000-0001-5153-0886'
+    given-names: André
+    family-names: Wiermann
+    affiliation: Observatório Nacional
+  - given-names: Cosme Ferreira
+    family-names: Ponte-Neto
+    affiliation: Observatório NAcional
+  - given-names: Antenor Oliveira
+    family-names: Cruz Júnior
+    affiliation: Observatório Nacional
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.7411844
+    description: >-
+      Geo-Resistivity-meter: Hardware and software
+      repository for a geophysical instrument
+repository-code: 'https://github.com/LDSM-ON/Geo-Resistivity-meter'
+abstract: >-
+  Hardware and software repository for a geophysical
+  instrument
+
+
+  Here will be stored all files and data required to
+  build a soil resistivity meter for geophysical
+  survey applications. This is a scientific
+  instrument under development at the Laboratory for
+  the Development of Magnetic Sensors (LDSM) of the
+  National Observatory, based in Rio de
+  Janeiro-Brazil
+  (https://www.gov.br/observatorio/pt-br).
+license: MIT
+version: v0.1.1-alpha
+date-released: '2022-12-08'
