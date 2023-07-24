@@ -8,6 +8,12 @@ Here will be stored all files and data required to build a soil resistivity mete
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
+**Observations:**
+
+1. The code is under development and may not be fully functional or optimized.
+
+2. For the code to work correctly, the imported modules must be available in the execution environment, and any other dependencies must be installed.
+
 ### Prerequisites
 
 In this code, to run the Geo-Resistivity-Meter software, you will need the following prerequisites:
