@@ -68,7 +68,7 @@ If you wish to contribute to the Geo-Resistivity-Meter project, please follow th
 
 ## Authors
 
-The initial work on the Geo-Resistivity-Meter system was carried out by Mr. Antenor O. C. Junior (antenorjuniot@on.br), Dr. André Wiermann (andrew@on.br), and Dr. Cosme Ferreira da Ponte-Neto (cosme@on.br). Additionally, there are other contributors who also participated in this project.
+The initial work on the Geo-Resistivity-Meter system was carried out by MSc. Antenor O. C. Junior (antenorjuniot@on.br), Dr. André Wiermann (andrew@on.br), and Dr. Cosme Ferreira da Ponte-Neto (cosme@on.br). Additionally, there are other contributors who also participated in this project.
 
 ## License
 
