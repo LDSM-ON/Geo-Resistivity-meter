@@ -50,7 +50,7 @@ Now you have the development environment set up and the Geo-Resistivity-Meter ru
 
 ## Running the tests
 
-The Geo-Resistivity-Meter system has an automated test file to ensure its proper functionality. To run the automated tests for the system, follow the instructions in the file Running the Tests
+The Geo-Resistivity-Meter system has an automated test file to ensure its proper functionality. To run the automated tests for the system, follow the instructions in the file Running the Tests.
 
 
 
