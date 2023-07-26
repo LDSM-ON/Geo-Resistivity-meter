@@ -205,7 +205,7 @@ def run():
             
     logo_git = ImageTk.PhotoImage(Image.open("figure/git.png"))
     Label(tab1, image=logo_git).place(x=20, y=130)
-    logo_caution = ImageTk.PhotoImage(Image.open("fig/caution.png"))
+    logo_caution = ImageTk.PhotoImage(Image.open("figure/caution.png"))
         
         
     Label(tab1,text = "Geo-Resistivity-Meter \n Hardware and software repository \n for a geophysical instrument \n Made at the",bg= "#dce6f4",font=('helvetica', 11)).place(x=65, y=291)
