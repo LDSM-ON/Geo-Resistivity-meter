@@ -50,11 +50,8 @@ Now you have the development environment set up and the Geo-Resistivity-Meter ru
 
 ## Running the tests
 
-The Geo-Resistivity-Meter system has an automated test file to ensure its proper functionality. To run the automated tests for the system, follow these steps:
-<br>
-Ensure that all system dependencies are installed correctly, as mentioned in the "Installation" section.
-<br>
-Navigate to the "examples/dc_2d" folder that contains the "root_file.csv" file.
+The Geo-Resistivity-Meter system has an automated test file to ensure its proper functionality. To run the automated tests for the system, follow the instructions in the file Running the Tests
+
 
 
 
