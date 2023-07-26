@@ -52,7 +52,7 @@ Now you have the development environment set up and the Geo-Resistivity-Meter ru
 
 The Geo-Resistivity-Meter system has an automated test file to ensure its proper functionality. To run the automated tests for the system, follow the instructions in the file Running the Tests.
 <br>
-![](https://github.com/LDSM-ON/Geo-Resistivity-meter/blob/main/Running%20the%20tests.pdf)
+
 
 
 
