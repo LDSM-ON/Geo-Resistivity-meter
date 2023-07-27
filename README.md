@@ -70,7 +70,10 @@ The initial work on the Geo-Resistivity-Meter system was carried out by MSc. Ant
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT [License](https://github.com/LDSM-ON/Geo-Resistivity-meter/blob/main/LICENSE).
+
+
+
 
 ## Acknowledgments
 
