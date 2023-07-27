@@ -22,7 +22,8 @@ Python: Make sure you have Python installed on your computer. The software was d
 <br>
 Python Libraries: The following Python libraries are required to run the software:<br>
 <ul>
-<li>tkinter</li>
+<li>customtkinter</li>
+<li>pandastable</li>  
 <li>PIL (Python Imaging Library)</li>
 <li>numpy</li>
 <li>pandas</li>
