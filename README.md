@@ -27,7 +27,6 @@ Python Libraries: The following Python libraries are required to run the softwar
 <li>PIL (Python Imaging Library)</li>
 <li>numpy</li>
 <li>pandas</li>
-<li>pandastable</li>
 <li>matplotlib</li>
 <li>resipy</li>
 <li>jupyter notebook</li>
